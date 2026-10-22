@@ -1,0 +1,10 @@
+ANARKI WEBSITE — CARA PAKAI
+
+1. Buka index.html di browser untuk melihat pratinjau.
+2. Ganti foto contoh dengan foto baju sendiri di folder images:
+   hero.jpg, baju-1.jpg, baju-2.jpg, baju-3.jpg
+3. Untuk mengganti nama barang/harga, edit file index.html menggunakan editor teks.
+4. Agar bisa dibuka dari QR code oleh orang lain, website harus dipublikasikan ke hosting terlebih dahulu.
+   Hosting gratis yang bisa dipakai: GitHub Pages (https://pages.github.com/).
+5. Setelah mendapatkan URL publik GitHub Pages, buat QR code yang mengarah ke URL tersebut.
+Catatan: website ini belum online dan belum memiliki QR code aktif. Foto dan harga saat ini hanya contoh.
